@@ -1,17 +1,21 @@
 # ¡Hola! Soy Edgar Villa 👋
 
-**Desarrollador Jr & Estudiante de Ingeniería de Sistemas / Informática**[cite: 1, 2] con más de 10 años de trayectoria operativa en entornos hospitalarios, seguros y compras administrativas[cite: 1, 2]. 
+![Experiencia](https://img.shields.io/badge/Experiencia_Operativa-+10_Años-2ea44f?style=for-the-badge)
+![Estudios](https://img.shields.io/badge/Estudiando-Ing._de_Sistemas-6f42c1?style=for-the-badge)
+![Enfoque](https://img.shields.io/badge/Enfoque-Automatización_y_BI-0077B5?style=for-the-badge)
 
-Me especializo en unir mi experiencia de negocio con la tecnología para diseñar soluciones eficientes, optimizar flujos administrativos y automatizar el manejo de datos[cite: 1].
+**Desarrollador Jr & Estudiante de Ingeniería de Sistemas / Informática** con más de 10 años de trayectoria operativa en entornos hospitalarios, seguros y compras administrativas.
+
+Me especializo en unir mi experiencia de negocio con la tecnología para diseñar soluciones eficientes, optimizar flujos administrativos y automatizar el manejo de datos.
 
 ---
 
 ### 💼 Perfil Profesional
 
-- 🔭 **Actualidad:** Representante de Soporte de Servicios en Bupa Global Latinoamérica.
-- 🎯 **Enfoque técnico:** Desarrollo de software y automatización mediante SQL, JavaScript y Python[cite: 1, 4].
-- 📊 **Análisis y BI:** Visualización y reporte con Tableau y Power BI[cite: 1].
-- 🧠 **Fortalezas clave:** Resolución de problemas bajo presión, control de calidad, precisión en validación de datos masivos y optimización de procesos operativos[cite: 1, 2].
+- 🔭 **Actualidad:** Representante de Soporte de Servicios en **Bupa Global Latinoamérica**.
+- 🎯 **Enfoque técnico:** Desarrollo de software y automatización mediante **SQL, JavaScript y Python**.
+- 📊 **Análisis y BI:** Visualización y reporte de datos con **Tableau** y **Power BI**.
+- 🧠 **Fortalezas clave:** Resolución de problemas bajo presión, control de calidad, precisión en validación de datos masivos y optimización de procesos operativos.
 
 ---
 
@@ -25,8 +29,24 @@ Me especializo en unir mi experiencia de negocio con la tecnología para diseña
 
 #### Bases de Datos & Business Intelligence
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+#### Herramientas y Control de Versiones
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **[Nombre del Proyecto 1](https://github.com/edgarvr0423/repo1)** | Breve descripción del problema que resuelve (ej. automatización de reportes o limpieza de datos). | `Python` `SQL` |
+| **[Nombre del Proyecto 2](https://github.com/edgarvr0423/repo2)** | Breve descripción de la aplicación o dashboard interactivo. | `JavaScript` `Power BI` |
 
 ---
 
@@ -34,8 +54,6 @@ Me especializo en unir mi experiencia de negocio con la tecnología para diseña
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edgarvr0423&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarvr0423&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
