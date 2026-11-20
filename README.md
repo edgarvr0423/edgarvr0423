@@ -12,7 +12,7 @@ Me especializo en unir mi experiencia de negocio con la tecnología para diseña
 
 ### 💼 Perfil Profesional
 
-- 🔭 **Actualidad:** Representante de Soporte de Servicios en **Bupa Global Latinoamérica**.
+
 - 🎯 **Enfoque técnico:** Desarrollo de software y automatización mediante **SQL, JavaScript y Python**.
 - 📊 **Análisis y BI:** Visualización y reporte de datos con **Tableau** y **Power BI**.
 - 🧠 **Fortalezas clave:** Resolución de problemas bajo presión, control de calidad, precisión en validación de datos masivos y optimización de procesos operativos.
