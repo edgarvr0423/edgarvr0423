@@ -43,12 +43,6 @@ Me especializo en unir mi experiencia de negocio con la tecnología para diseña
 
 ### 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **[Nombre del Proyecto 1](https://github.com/edgarvr0423/repo1)** | Breve descripción del problema que resuelve (ej. automatización de reportes o limpieza de datos). | `Python` `SQL` |
-| **[Nombre del Proyecto 2](https://github.com/edgarvr0423/repo2)** | Breve descripción de la aplicación o dashboard interactivo. | `JavaScript` `Power BI` |
-
----
 
 ### 📈 Métricas de GitHub
 
